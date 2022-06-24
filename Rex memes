@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
+<link href="style2.css" rel="stylesheet">
+  </head>
+<body>
+  <header>
+    <ul>
+        <h3>Links to other pages</h3>
+      <li><a href="Montalvogonzalez.github.io">Home page</a>
+      <li><a href=""https://montalvogonzalez.github.io/tweets.html"">Tweet</a>
+      <li><a href="">Videos</a>
+    </ul>
+  </header>
+  <main>
+    <article> 
+      <h1> Why i like Captain Rex memes</h1>
+      <p>They are very funny ands educational sometimes. This is my opinnion.</p>
+      <img src="https://pics.me.me/captain-rex-68545186.png">
+    </article>
+    <aside> 
+    <ul>
+      <li><a href="https://i.pinimg.com/originals/eb/6f/7b/eb6f7bafb9fca03c3bee2003e3ee33ec.jpg">Captain Rex memes</a>
+      <li><a href="https://i.imgflip.com/4nri59.jpg">More memes</a>
+      <li><a href="https://preview.redd.it/y2fcb8mgip561.jpg?width=640&crop=smart&auto=webp&s=1c7789c46edd8467dbdf9cb3ef6a3cf772929bda">You are gonna love it</a>
+      </ul>
+      </aside>
+  </main>
+    <footer>  </footer>
+  
+</body>
+  <html>
