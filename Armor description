@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://apply.holbertonschool.com/level2/school.css" rel="stylesheet">
+<link href="style1.css" rel="stylesheet">
+  </head>
+<body>
+  <header>
+    <ul>
+     
+        <p><li>Links to other pages</p>
+      <li><a href="Montalvogonzalez.github.io"></a>
+      <li><a href="https://montalvogonzalez.github.io/tweets.html"></a>
+      <li><a href="">Memes</a>
+    </ul>
+    <h1> Captain Rex phase 2 armor</h1>
+    <p>The armor was a little lighter, the phase 1 armor. More flexible and more manuverable.
+    </p>
+   <img src="https://m.media-amazon.com/images/I/61Ci9PwWs3L._SL1000_.jpg">
+  </header>
+  <main>
+    <article> </article>
+    <aside>  
+      <li><a href="https://youtu.be/3o85LyTP1ws">Star Wars</a>
+      <li><a href="https://www.starwars.com/news/6-great-clone-trooper-quotes"> Inspirational Quotes</a>
+        
+      </aside>
+  </main>
+    <footer>  </footer>
+</body>
+</html>
